@@ -143,8 +143,11 @@ PDIP37 Vin
 #define HSPI_CS D15
 
 // I2C (WIRE) PROTOCOL
+<<<<<<< HEAD
 // External pull-up resistors to 3.3V are required for the bus to behave correctly. 
 // 2K2 resistor recommended for correct timing with the specified capacative load. 10K works for breadboard projects.
+=======
+>>>>>>> f95778aba4e6b7f08df88c6b6eb3a65ae0f8d131
 #define SDA D21
 #define SCL D22
 
