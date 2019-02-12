@@ -38,12 +38,12 @@ PDIP37 Vin
 #define D3 3
 #define D4 4
 #define D5 5
-#define D6 6   // not recommended, used by SPI Flash
-#define D7 7   // not recommended, used by SPI Flash
-#define D8 8   // not recommended, used by SPI Flash
-#define D9 9   // not recommended, used by SPI Flash
-#define D10 10 // not recommended, used by SPI Flash
-#define D11 11 // not recommended, used by SPI Flash
+// #define D6 6   // not recommended, used by SPI Flash
+// #define D7 7   // not recommended, used by SPI Flash
+// #define D8 8   // not recommended, used by SPI Flash
+// #define D9 9   // not recommended, used by SPI Flash
+// #define D10 10 // not recommended, used by SPI Flash
+// #define D11 11 // not recommended, used by SPI Flash
 #define D12 12
 #define D13 13
 #define D14 14
